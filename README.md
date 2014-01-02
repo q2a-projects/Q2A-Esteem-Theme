@@ -1,4 +1,4 @@
-## Q2A Esteem Theme [![Question2Answer](http://qa-themes.com/files/q2a-logo.png)](http://www.question2answer.org/) [![Q2A Themes](http://qa-themes.com/files/qa-logo.jpg)](http://qa-themes.org/)
+## Q2A Esteem Theme [![Question2Answer](http://qa-themes.com/files/q2a-logo.png)](http://www.question2answer.org/) [![Q2A Themes](http://qa-themes.com/files/qa-logo.jpg)](http://qa-themes.com/)
 ================
 ## Description
 Esteem is a free Question2Answer Theme created by [Towhid Nategheian](http://TowhidN.com) from [QA-Themes.com](http://QA-Themes.com)
