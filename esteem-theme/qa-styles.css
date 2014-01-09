@@ -1418,6 +1418,7 @@ border: 1px solid #AAAAAA;
 
 /* Plugin Fixes */
 .qa-tag-img {
+	float: left;
     margin-right: 5px;
     vertical-align: top;
 }
