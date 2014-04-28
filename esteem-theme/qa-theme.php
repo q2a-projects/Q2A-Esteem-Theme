@@ -200,7 +200,7 @@ qa_register_layer('/qa-admin-options.php', 'Theme Options', $theme_dir , $theme_
 			// Please don't remove these links
 			$this->output(
 				'<DIV CLASS="qa-attribution">',
-				'Designed by <A HREF="http://QA-Themes.com/" title="Question2Answer Themes and plugins">QA-Themes.com</A>',
+				'and <A HREF="http://qa-themes.com/shop/esteem-theme" title="Responsive Q2A Esteem Theme">Esteem Theme</A>',
 				'</DIV>'
 			);
 			qa_html_theme_base::attribution();

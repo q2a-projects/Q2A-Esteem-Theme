@@ -1,22 +1,26 @@
-## Q2A Esteem Theme [![Question2Answer](http://qa-themes.com/files/q2a-logo.png)](http://www.question2answer.org/) [![Q2A Themes](http://qa-themes.com/files/qa-logo.jpg)](http://qa-themes.com/)
+## Q2A Esteem Theme [![Question2Answer](http://qa-themes.com/files/q2a-logo.png)](http://www.question2answer.org/) [![Question2Answer Themes and plugins](http://qa-themes.com/files/qa-logo.jpg)](http://qa-themes.com/)
 ================
 ## Description
-Esteem is a free Question2Answer Theme created by [Towhid Nategheian](http://TowhidN.com) from [QA-Themes.com](http://QA-Themes.com)
+[Esteem Theme](http://qa-themes.com/shop/esteem-theme "Question2Answer Esteem Theme") is a free & responsive Question2Answer Theme.
+this theme has powerful features to configure and customize your site, for more information check the **[documentation](http://demo.qa-themes.com/esteem/documentation/ "Q2A Esteem Theme's Documentation")**. you can also buy this theme from our site to get premium support and license removal.
 
-check out Esteem's [theme demo](http://demo.qa-themes.com/esteem/) and check it's [features](http://qa-themes.com/shop/esteem-theme)
+check out the **[Demo](http://demo.qa-themes.com/esteem/ "Q2A Esteem Theme's Demo")**
 
 ## Installation
 
-1. Download and extract "esteem-theme" directory, then upload it to your Q2A site's themes directory (e.g. `qa-themes/esteem-theme`).
-2. In Q2A go to **Admin > General** and set up the default theme to "esteem-theme" and save changes.
-3. you can use Esteem Theme's options to customize it or add your own styling. for more information read [Theme's Documentation](http://demo.qa-themes.com/esteem/documentation/)
+1. Download the theme and extract "esteem-theme" directory, then upload it to your Q2A site's themes directory: `qa-themes/esteem-theme`.
+2. In your Q2A site, go to **Admin > General** and set the default theme to "esteem-theme" and save changes.
+3. you can use Esteem Theme's options in **Admin > Theme Options" to customize it or add your own styling.
 
-#### copyright
+## Author
+This free theme is created by [Towhid Nategheian](http://TowhidN.com "Freelance Question2Answer Developer"), from [QA-Themes.com](http://QA-Themes.com "Question2Answer Themes and Plugins")
 
-this theme and all it's source code is published under [MIT License]. you are free to use it in any way you like, just don't forget the attribution.
+### Copyright
 
-## About q2A
+this theme is published under [MIT License]. you are free to use it in any way you like, just don't remove the attribution link.
 
-Question2Answer is a free and open source platform for Q&A sites. For more information, visit:
+### About Q2A
+
+**[Question2Answer](http://qa-themes.com/question2answer)**  is a free and open source platform for creating Question & Answer sites. For more information, visit it's official site:
 
 http://www.question2answer.org/

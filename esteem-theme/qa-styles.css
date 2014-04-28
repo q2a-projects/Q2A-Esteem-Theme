@@ -1,8 +1,8 @@
 /*
         Theme Name: Esteem Theme
         Theme URI: http://qa-themes.com/shop/esteem-theme
-        Theme Version: 2.1
-        Theme Date: 2014-1-1
+        Theme Version: 2.2
+        Theme Date: 2014-27-4
         Theme Author: QA-Themes.com
         Theme Author URI: http://www.qa-themes.com/
         Theme Update Check URI: https://raw.github.com/Towhidn/Q2A-Esteem-Theme/master/esteem-theme/qa-styles.css
@@ -88,7 +88,6 @@ h2 {
 .qa-top-header {
 	background-color: #DD4B37;
     font-size: 14px;
-    overflow: hidden;
     white-space: nowrap;
 }
 .qa-sidepanel {
@@ -205,7 +204,8 @@ h2 {
 }
 .qa-nav-user {
 	color: #FFFFFF;
-    margin: 5px auto;
+    margin: 0 auto;
+    padding: 5px 0;
     text-align: left;
     width: 980px;
 }
@@ -572,8 +572,6 @@ h2 {
 	zoom:1;
 } /* zoom for IE, padding for early FF */
 .qa-q-item-main {
-	float:left;
-	max-width:570px;
 }
 .qa-q-item-title {
 	color:#235272;
@@ -806,7 +804,6 @@ border: 1px solid #AAAAAA;
 }
 .qa-view-count {
 	color: #222222;
-    float: right;
     font-size: 11px;
     margin: 3px 10px 0 5px;
 }
@@ -907,11 +904,9 @@ border: 1px solid #AAAAAA;
 /* Question view */
 
 .qa-q-view-main {
-	float:left;
-	max-width: 675px;
+	max-width: 750px;
 }
 .qa-q-view-main .entry-content {
-    float: left;
 }
 .qa-q-view-content {
 	font-size:14px;
@@ -1026,11 +1021,11 @@ border: 1px solid #AAAAAA;
 }
 .qa-a-item-main {
 	float:left;
-	width:600px;
+	width:650px;
 	display:inline-block;
 } /* inline-block for IE */
 .qa-a-item-selected {
-	background-color:#d7e3e1;
+	background-color:#FDFFED;
 	border:1px dashed #486a63;
 	padding:10px;
 }
@@ -1214,12 +1209,11 @@ border: 1px solid #AAAAAA;
 }
 .qa-attribution {
 	float:right;
-	margin-left: 5px;
+	margin-left: 3px;
 }
 .qa-attribution a {
 	color:#FFF;
 	text-decoration:underline;
-!important;
 }
 .qa-attribution a:hover {
 	color:#DD4B37;
@@ -1267,6 +1261,14 @@ border: 1px solid #AAAAAA;
 .qa-avatar-link, .qa-avatar-link:hover {
 	text-decoration:none;
 }
+.qa-waiting{
+	background:url(images/loading.gif) no-repeat center; width:14px;
+	height:14px;
+	display:inline-block;
+	font-size:0;
+	margin:0px 8px 0px 4px;
+	vertical-align:middle;
+} 
 /*Respomsive*/
 #mobilenav {
 	display: none;
@@ -1421,4 +1423,11 @@ border: 1px solid #AAAAAA;
 	float: left;
     margin-right: 5px;
     vertical-align: top;
+}
+.qa-history-new-event-link:focus, .qa-history-new-event-link:hover {
+    text-decoration: none;
+}
+
+.qa-history-new-event-link {
+    top: 3px !important;
 }
